@@ -1,6 +1,9 @@
+<!-- start dependency graph -->
+
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'bumpX' } } }%%
 graph LR;
+linkStyle default opacity:0.5
 Nodes:
     START
     ProgramBERT
