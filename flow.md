@@ -1,3 +1,6 @@
+```mermaid
+%%{ init: { 'flowchart': { 'curve': 'bumpX' } } }%%
+graph LR;
 DiGraph()
 Nodes:
     START
@@ -23,3 +26,6 @@ Edges:
     ProgramBERT -> Container scanning
     ProgramBERT -> IaC scanning
     ProgramBERT -> END
+```
+
+<!-- end dependency graph -->
