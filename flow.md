@@ -1,7 +1,6 @@
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'bumpX' } } }%%
 graph LR;
-DiGraph()
 Nodes:
     START
     ProgramBERT
